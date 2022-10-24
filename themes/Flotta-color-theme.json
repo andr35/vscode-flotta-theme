@@ -393,6 +393,8 @@
     // "ports.iconRunningProcessForeground": "#3ea17f"
     "ports.iconRunningProcessForeground": "#167dff"
   },
+
+  // From https://github.com/material-theme/vsc-material-theme
   "tokenColors": [
     {
       "name": "Global settings",
