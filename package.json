@@ -1,0 +1,21 @@
+{
+  "name": "flotta-theme",
+  "displayName": "Flotta Theme",
+  "description": "Theme based on the JetBrains Fleet color palette. Token colors are from Material Theme.",
+  "version": "1.0.0",
+  "engines": {
+    "vscode": "^1.72.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Flotta",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Flotta-color-theme.json"
+      }
+    ]
+  }
+}
