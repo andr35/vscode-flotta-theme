@@ -4,6 +4,8 @@
   "description": "Theme based on the JetBrains Fleet / Toolbox color palette. Token colors are from Material Theme.",
   "version": "1.0.0",
   "author": "andr35",
+  "publisher": "andr35",
+  "license": "Apache-2.0",
   "repository": {
     "type": "git",
     "url": "https://github.com/andr35/vscode-flotta-theme.git"
@@ -22,5 +24,6 @@
         "path": "./themes/Flotta-color-theme.json"
       }
     ]
-  }
+  },
+  "icon": "icon.png"
 }
