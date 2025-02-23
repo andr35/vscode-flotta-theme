@@ -2,7 +2,7 @@
   "name": "flotta-theme",
   "displayName": "Flotta Theme",
   "description": "Theme based on the JetBrains Fleet / Toolbox color palette. Token colors are from Material Theme.",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "author": "andr35",
   "publisher": "andr35",
   "license": "Apache-2.0",
